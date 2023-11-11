@@ -2,7 +2,7 @@
   "result": {
     "status_overall": {
       "updated": "2023-10-22T19:32:03.389Z",
-      "status": "non-Operational",
+      "status": "Operational",
       "status_code": 100
     },
     "status": [

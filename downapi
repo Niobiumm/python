@@ -9,7 +9,7 @@
       {
         "id": "5f31ce906e9c9104c05543d1",
         "name": "User",
-        "status": "Outage",
+        "status": "Operational",
         "status_code": 100,
         "containers": [
           {
